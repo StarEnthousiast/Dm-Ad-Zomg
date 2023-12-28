@@ -1,0 +1,25 @@
+{
+  "token": "tokenhere",
+  "channels": [
+    {
+      "id": "channelid",
+      "messages": ["message"],
+      "delay": 5
+    },
+    {
+      "id": "channelid",
+      "messages": ["message"],
+      "delay": 5
+    },
+    {
+      "id": "channelid",
+      "messages": ["message"],
+      "delay": 5
+    },
+    {
+      "id": "channelid",
+      "messages": ["message"],
+      "delay": 5
+    }
+  ]
+}
